@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HonAnson
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL and Python, and the github environment
+- 👀 I’m interested in artificial intelligence and automation
+- 🌱 I’m currently learning about the github environment
 - 💞️ I’m looking to collaborate on data analytics related project.
 - 📫 To reach me, feel free to contact me on github
 
