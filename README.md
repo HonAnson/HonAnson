@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HonAnson
-- 👀 I’m passioned in computer vision and 3D reconstruction
-- 🌱 I’m currently learning about web development as hobby
-- 💞️ I’m looking to collaborate on any project
-- 📫 To reach me, feel free to contact me on github
+### 👋 Hi, I’m @HonAnson
+
+I am passionate in computer vision and machine learning.  
+I am currently working on my thesis - Neural LiDAR 3D Reconstructon, for my master's degree at Imperial College London.  
+Please feel free to contact me on github.
+
 
 <!---
 HonAnson/HonAnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
