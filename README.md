@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @HonAnson
 
-I am currently working on my thesis - Neural LiDAR 3D Reconstructon, for my master's degree at Imperial College London.  
+I am currently working on my thesis - Neural LiDAR 3D Reconstructon, for my Master's degree at Imperial College London.  
 I am passionate in computer vision and machine learning.  
 Feel free to visit my personal page [https://honanson.github.io/](https://honanson.github.io/) to learn more about me.  
 Also, please feel free to contact me on github.
